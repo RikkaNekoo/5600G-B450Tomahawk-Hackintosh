@@ -1,4 +1,6 @@
 # 5600G-B450Tomahawk-Hackintosh
+![](BlackMagic.png)
+Powered by Rikka's Black Magic.  
 **OUT-OF-DATE!!!**  
 ## Hardware
 CPU:AMD R5-5600G  
